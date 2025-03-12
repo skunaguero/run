@@ -1,0 +1,1 @@
+{"type":"Dialog","props":{"width":750,"isModal":true,"height":1334},"compId":2,"child":[{"type":"Script","props":{"lineVibrate":"@node:35","lineSound":"@node:32","lineMusic":"@node:29","runtime":"code2d/dialog/SetDialog.ts"},"compId":36},{"type":"Sprite","props":{"y":364,"x":119,"texture":"comp/image.png"},"compId":38}],"loadList":["comp/image.png"],"loadList3D":[]}
